@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00dbde&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hariharan+%F0%9F%91%8B;QA+Engineer+%7C+Transitioning+Frontend+Developer;Passionate+about+Web+Development+%26+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00dbde&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hariharan+%F0%9F%91%8B;QA+Engineer" />
 </p>
 
 <p align="center">
@@ -20,8 +20,7 @@
 ---
 
 <p align="center">
-  <b>QA Engineer and transitioning to Frontend Developer at Mallow Technologies</b> <br>
-  <i>Delivering robust, scalable, and high-performing web applications through a dual expertise in frontend development and quality assurance.</i>
+  <b>QA Engineer</b>
 </p>
 
 ---
