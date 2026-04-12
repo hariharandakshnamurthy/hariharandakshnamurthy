@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <b>QA Engineer</b>
+  <b>QA Engineer / Frontend Developer</b>
 </p>
 
 ---
