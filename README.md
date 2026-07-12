@@ -34,13 +34,6 @@
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hariharandakshnamurthy&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/hari-haran-671817263/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
