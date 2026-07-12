@@ -34,9 +34,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/hariharandakshnamurthy">
-    <img src="https://github-readme-stats.vercel.app/api?username=hariharandakshnamurthy&show_icons=true&theme=radical" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hariharandakshnamurthy&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
