@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/hari-haran-671817263/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp; &nbsp;
+  
   <a href="https://hariharanqa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Site-fc00ff?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
