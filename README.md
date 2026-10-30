@@ -25,7 +25,8 @@ I'm working toward an **SDET** role, and I like testing the parts that don't sho
 
 - 🧭 Defining the **QA process (STLC)** for products built in an AI-driven development lifecycle: stage-by-stage activities, handoffs, and entry/exit criteria
 - 🤖 Building **AI-assisted QA skills**: a testability review at product intake, and a test case generator that turns requirement documents into test cases using **Playwright MCP**
-- 🧪 Practising **LLM evaluation** with DeepEval and pytest
+- 🧪 Building **LLM evaluation** tests with DeepEval and pytest for AI apps and agents
+- ⚡ Adding **Locust** (Python) to my performance testing toolkit alongside k6 and JMeter
 - 🎯 Growing from QA automation into **SDET**
 
 ## 📊 Impact at a glance
@@ -41,14 +42,26 @@ I'm working toward an **SDET** role, and I like testing the parts that don't sho
 
 ## 🛠️ Tech stack
 
-**Test automation & performance**
+**Test automation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Performance testing**
+
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-3AA655?style=flat-square&logo=locust&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+**AI-assisted testing & evals**
+
+![Playwright MCP](https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-6C47FF?style=flat-square)
+![LLM Evals](https://img.shields.io/badge/LLM_Evaluation-1F2937?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agent_Testing-1F2937?style=flat-square)
 
 **Languages & frontend**
 
